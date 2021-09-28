@@ -2,7 +2,7 @@ ThinkPHP 5.0.24 unserialize RCE (web paths are no writable)
 Many gadgets, here is one:  
 ```
 ... 
-(dadgets in network)
+(gadgets in network)
 ...
 think\console\Output # write()
 think\session\driver\Memcache # write()
